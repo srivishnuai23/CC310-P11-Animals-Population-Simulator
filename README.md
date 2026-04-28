@@ -1,6 +1,8 @@
 # CC310-P11-Animals-Population-Simulator
 This project simulates how populations of different organisms change over time in a shared ecosystem. The goal is to model how species interact, compete, and are affected by outside intervention over a long period (10 years, or 3650 days).
 
+Note: This is a console application. All the code is in the Project.py file, and the relevant test txt files are in the tests folder. 
+
 The simulation is driven by four input files, each describing a different aspect of the ecosystem:
 - **Relationships between organisms** – defines how population “flows” from one species to another (for example, how much of one species contributes to another’s growth).
 - **Hierarchy of organisms** – represents a parent-child structure that helps regulate population balance.
