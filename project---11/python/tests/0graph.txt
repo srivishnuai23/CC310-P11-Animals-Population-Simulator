@@ -1,0 +1,16 @@
+4
+bird
+fish
+fox
+bear
+10
+bird fish 0.2500
+bird fox 0.7500
+fish bird 0.3330
+fish bear 0.3330
+fish fox 0.3340
+fox bird 0.1230
+fox fish 0.5670
+fox bear 0.3100
+bear bird 0.4200
+bear fish 0.5800

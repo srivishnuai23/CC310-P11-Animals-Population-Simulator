@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SriLankanElephant 22415.4781
+VampireBat 31556.9937
+Bonobo 101066.7821
+BactrianCamel 28856.6505
+BullShark 47498.0859
+LeopardTortoise 27402.6618
+AsianPalmCivet 56539.2923
+Flounder 26993.5243
+Human 50108.0778
+Piranha 31429.7859

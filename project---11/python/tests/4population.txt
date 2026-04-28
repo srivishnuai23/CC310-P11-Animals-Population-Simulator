@@ -1,0 +1,26 @@
+25
+WhiteRhinoceros 909 89494
+Albatross 877 87436
+Liger 949 90810
+AinuDog 285 24541
+Deer 807 60800
+EntlebucherMountainDog 579 40814
+Bobcat 340 23916
+BandedPalmCivet 308 17513
+Grasshopper 350 30326
+ElephantSeal 784 59092
+Hippopotamus 832 78700
+FrilledLizard 387 37854
+CommonBuzzard 956 69822
+AfricanPenguin 764 61783
+AdeliePenguin 892 64082
+Axolotl 393 28078
+Weasel 360 30805
+Koala 889 70876
+Long-EaredOwl 186 12943
+Rattlesnake 927 74549
+OldEnglishSheepdog 127 7219
+StaffordshireBullTerrier 617 57447
+Red-handedTamarin 695 39061
+Coati 979 93401
+Mule 302 19282

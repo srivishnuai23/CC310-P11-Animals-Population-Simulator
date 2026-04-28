@@ -1,0 +1,16 @@
+15
+Drever 927 56901
+Monkey 492 30575
+SiameseFightingFish 452 44114
+MaskedPalmCivet 840 73075
+Newfoundland 851 57277
+MaineCoon 719 54574
+Beagle 813 80605
+Stoat 254 25360
+WoollyMammoth 621 48529
+Platypus 783 60617
+Persian 149 12575
+AfricanPenguin 219 15217
+IndianRhinoceros 167 10569
+WesternLowlandGorilla 616 33835
+SriLankanElephant 799 40379

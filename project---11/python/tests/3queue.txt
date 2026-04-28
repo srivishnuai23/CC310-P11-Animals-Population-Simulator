@@ -1,0 +1,21 @@
+20
+HorseshoeCrab 55
+WoollyMammoth 74
+Flamingo 16
+SeaDragon 140
+Nightingale 200
+KingCrab 318
+AfricanForestElephant 342
+BlackWidowSpider 45
+Mayfly 347
+ArcticHare 65
+AfricanClawedFrog 131
+Albatross 222
+CottontopTamarin 8
+RiverDolphin 40
+BirdsOfParadise 16
+HermitCrab 298
+HornedFrog 282
+Bongo 307
+Kudu 242
+EasternGorilla 47

@@ -1,0 +1,10 @@
+10
+BactrianCamel Human
+Human LeopardTortoise
+LeopardTortoise Bonobo
+AsianPalmCivet SriLankanElephant
+VampireBat Bonobo
+Flounder BullShark
+SriLankanElephant Bonobo
+Bonobo BullShark
+Piranha BullShark

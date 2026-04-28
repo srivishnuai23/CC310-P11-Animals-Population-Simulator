@@ -1,0 +1,90 @@
+15
+Drever
+Monkey
+SiameseFightingFish
+MaskedPalmCivet
+Newfoundland
+MaineCoon
+Beagle
+Stoat
+WoollyMammoth
+Platypus
+Persian
+AfricanPenguin
+IndianRhinoceros
+WesternLowlandGorilla
+SriLankanElephant
+73
+Drever MaskedPalmCivet 0.0880
+Drever Newfoundland 0.1589
+Drever Monkey 0.0374
+Drever SiameseFightingFish 0.6204
+Drever AfricanPenguin 0.0953
+Monkey MaskedPalmCivet 0.0039
+Monkey IndianRhinoceros 0.5628
+Monkey MaineCoon 0.1950
+Monkey Newfoundland 0.2383
+SiameseFightingFish Stoat 0.1047
+SiameseFightingFish MaskedPalmCivet 0.0398
+SiameseFightingFish Beagle 0.0087
+SiameseFightingFish SriLankanElephant 0.0386
+SiameseFightingFish Persian 0.2935
+SiameseFightingFish Drever 0.0112
+SiameseFightingFish IndianRhinoceros 0.5035
+MaskedPalmCivet Beagle 0.5488
+MaskedPalmCivet Newfoundland 0.0484
+MaskedPalmCivet Persian 0.0385
+MaskedPalmCivet SiameseFightingFish 0.3643
+Newfoundland SriLankanElephant 0.0321
+Newfoundland Newfoundland 0.1577
+Newfoundland MaineCoon 0.1376
+Newfoundland SiameseFightingFish 0.0415
+Newfoundland Monkey 0.3388
+Newfoundland Stoat 0.1134
+Newfoundland IndianRhinoceros 0.1789
+MaineCoon SriLankanElephant 0.0105
+MaineCoon AfricanPenguin 0.1530
+MaineCoon WesternLowlandGorilla 0.1759
+MaineCoon Drever 0.4078
+MaineCoon Monkey 0.2528
+Beagle Stoat 0.7097
+Beagle Beagle 0.1163
+Beagle IndianRhinoceros 0.0280
+Beagle SiameseFightingFish 0.1460
+Stoat WesternLowlandGorilla 0.0042
+Stoat WoollyMammoth 0.1279
+Stoat SriLankanElephant 0.4268
+Stoat Persian 0.3108
+Stoat IndianRhinoceros 0.1303
+WoollyMammoth SiameseFightingFish 0.0309
+WoollyMammoth WoollyMammoth 0.2300
+WoollyMammoth Drever 0.0150
+WoollyMammoth Newfoundland 0.0045
+WoollyMammoth AfricanPenguin 0.5299
+WoollyMammoth MaskedPalmCivet 0.1897
+Platypus SiameseFightingFish 0.1853
+Platypus Monkey 0.0708
+Platypus Beagle 0.4872
+Platypus IndianRhinoceros 0.2567
+Persian Drever 0.1550
+Persian IndianRhinoceros 0.0269
+Persian MaskedPalmCivet 0.7845
+Persian WesternLowlandGorilla 0.0336
+AfricanPenguin AfricanPenguin 0.5781
+AfricanPenguin Drever 0.1108
+AfricanPenguin SriLankanElephant 0.1067
+AfricanPenguin WoollyMammoth 0.0661
+AfricanPenguin Platypus 0.1383
+IndianRhinoceros MaineCoon 0.1981
+IndianRhinoceros Persian 0.0122
+IndianRhinoceros Monkey 0.0316
+IndianRhinoceros SriLankanElephant 0.1598
+IndianRhinoceros MaskedPalmCivet 0.4394
+IndianRhinoceros WesternLowlandGorilla 0.1589
+WesternLowlandGorilla Newfoundland 0.1461
+WesternLowlandGorilla Platypus 0.5255
+WesternLowlandGorilla MaskedPalmCivet 0.3284
+SriLankanElephant SriLankanElephant 0.2212
+SriLankanElephant Persian 0.2339
+SriLankanElephant MaineCoon 0.4414
+SriLankanElephant SiameseFightingFish 0.1035

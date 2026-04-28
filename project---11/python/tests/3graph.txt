@@ -1,0 +1,128 @@
+20
+KingCrab
+EasternGorilla
+WoollyMammoth
+AfricanForestElephant
+BirdsOfParadise
+Bongo
+HornedFrog
+ArcticHare
+Nightingale
+Albatross
+SeaDragon
+CottontopTamarin
+HorseshoeCrab
+Flamingo
+Mayfly
+AfricanClawedFrog
+BlackWidowSpider
+HermitCrab
+Kudu
+RiverDolphin
+106
+KingCrab AfricanClawedFrog 0.5873
+KingCrab SeaDragon 0.3329
+KingCrab ArcticHare 0.0798
+EasternGorilla SeaDragon 0.4335
+EasternGorilla Flamingo 0.5524
+EasternGorilla HermitCrab 0.0141
+WoollyMammoth WoollyMammoth 0.1768
+WoollyMammoth Kudu 0.1404
+WoollyMammoth EasternGorilla 0.0010
+WoollyMammoth AfricanClawedFrog 0.0055
+WoollyMammoth KingCrab 0.2902
+WoollyMammoth Bongo 0.0734
+WoollyMammoth ArcticHare 0.1113
+WoollyMammoth Flamingo 0.2014
+AfricanForestElephant EasternGorilla 0.2629
+AfricanForestElephant Mayfly 0.1748
+AfricanForestElephant HorseshoeCrab 0.0036
+AfricanForestElephant ArcticHare 0.4556
+AfricanForestElephant KingCrab 0.1000
+AfricanForestElephant AfricanClawedFrog 0.0031
+BirdsOfParadise Bongo 0.5846
+BirdsOfParadise BirdsOfParadise 0.3220
+BirdsOfParadise HornedFrog 0.0934
+Bongo AfricanForestElephant 0.1225
+Bongo HermitCrab 0.1081
+Bongo BirdsOfParadise 0.1441
+Bongo EasternGorilla 0.1040
+Bongo Albatross 0.0494
+Bongo HorseshoeCrab 0.0530
+Bongo RiverDolphin 0.4189
+HornedFrog ArcticHare 0.2289
+HornedFrog Nightingale 0.3907
+HornedFrog BlackWidowSpider 0.1926
+HornedFrog RiverDolphin 0.1717
+HornedFrog BirdsOfParadise 0.0161
+ArcticHare Nightingale 0.1481
+ArcticHare Mayfly 0.5042
+ArcticHare Flamingo 0.1352
+ArcticHare BlackWidowSpider 0.1488
+ArcticHare CottontopTamarin 0.0637
+Nightingale BirdsOfParadise 0.1852
+Nightingale Nightingale 0.2236
+Nightingale HornedFrog 0.3461
+Nightingale BlackWidowSpider 0.1802
+Nightingale Kudu 0.0649
+Albatross CottontopTamarin 0.0227
+Albatross Bongo 0.3840
+Albatross HorseshoeCrab 0.5933
+SeaDragon Nightingale 0.4540
+SeaDragon HorseshoeCrab 0.0935
+SeaDragon WoollyMammoth 0.3657
+SeaDragon Mayfly 0.0868
+CottontopTamarin WoollyMammoth 0.0104
+CottontopTamarin Bongo 0.1448
+CottontopTamarin RiverDolphin 0.1001
+CottontopTamarin Mayfly 0.0181
+CottontopTamarin Flamingo 0.1102
+CottontopTamarin KingCrab 0.2193
+CottontopTamarin AfricanForestElephant 0.0316
+CottontopTamarin HermitCrab 0.3655
+HorseshoeCrab Kudu 0.2653
+HorseshoeCrab SeaDragon 0.0185
+HorseshoeCrab RiverDolphin 0.0398
+HorseshoeCrab KingCrab 0.1517
+HorseshoeCrab Mayfly 0.0075
+HorseshoeCrab HornedFrog 0.1152
+HorseshoeCrab WoollyMammoth 0.4020
+Flamingo BirdsOfParadise 0.0789
+Flamingo WoollyMammoth 0.0130
+Flamingo BlackWidowSpider 0.3274
+Flamingo Albatross 0.0680
+Flamingo Flamingo 0.0813
+Flamingo AfricanForestElephant 0.0017
+Flamingo RiverDolphin 0.2926
+Flamingo Kudu 0.1371
+Mayfly Kudu 0.5215
+Mayfly KingCrab 0.1620
+Mayfly HorseshoeCrab 0.1529
+Mayfly HornedFrog 0.0435
+Mayfly BirdsOfParadise 0.1201
+AfricanClawedFrog Flamingo 0.1432
+AfricanClawedFrog BirdsOfParadise 0.4925
+AfricanClawedFrog WoollyMammoth 0.0475
+AfricanClawedFrog EasternGorilla 0.1535
+AfricanClawedFrog KingCrab 0.1633
+BlackWidowSpider AfricanClawedFrog 0.0045
+BlackWidowSpider KingCrab 0.3556
+BlackWidowSpider HermitCrab 0.1862
+BlackWidowSpider Flamingo 0.3361
+BlackWidowSpider BirdsOfParadise 0.1176
+HermitCrab Bongo 0.0893
+HermitCrab AfricanClawedFrog 0.0998
+HermitCrab WoollyMammoth 0.0174
+HermitCrab AfricanForestElephant 0.1374
+HermitCrab HermitCrab 0.0610
+HermitCrab HornedFrog 0.3273
+HermitCrab CottontopTamarin 0.2678
+Kudu Flamingo 0.0121
+Kudu Nightingale 0.7422
+Kudu RiverDolphin 0.0200
+Kudu Bongo 0.0385
+Kudu WoollyMammoth 0.1872
+RiverDolphin HermitCrab 0.5261
+RiverDolphin Kudu 0.0760
+RiverDolphin Mayfly 0.3889
+RiverDolphin AfricanClawedFrog 0.0090

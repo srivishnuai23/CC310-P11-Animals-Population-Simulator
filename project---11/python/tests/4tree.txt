@@ -1,0 +1,25 @@
+25
+Koala AdeliePenguin
+Mule Coati
+Bobcat FrilledLizard
+Axolotl AdeliePenguin
+Albatross Weasel
+Grasshopper Hippopotamus
+Deer OldEnglishSheepdog
+OldEnglishSheepdog Weasel
+Long-EaredOwl AdeliePenguin
+StaffordshireBullTerrier ElephantSeal
+EntlebucherMountainDog WhiteRhinoceros
+AinuDog ElephantSeal
+Coati ElephantSeal
+AdeliePenguin Liger
+AfricanPenguin BandedPalmCivet
+WhiteRhinoceros Hippopotamus
+ElephantSeal Hippopotamus
+FrilledLizard BandedPalmCivet
+CommonBuzzard Red-handedTamarin
+Hippopotamus BandedPalmCivet
+Red-handedTamarin BandedPalmCivet
+Weasel Liger
+BandedPalmCivet Rattlesnake
+Liger Rattlesnake

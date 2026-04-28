@@ -1,0 +1,20 @@
+20
+Flamingo ArcticHare
+HorseshoeCrab AfricanClawedFrog
+WoollyMammoth BlackWidowSpider
+CottontopTamarin Mayfly
+Kudu BirdsOfParadise
+RiverDolphin BirdsOfParadise
+BlackWidowSpider BirdsOfParadise
+Mayfly AfricanClawedFrog
+Bongo BirdsOfParadise
+SeaDragon Albatross
+EasternGorilla ArcticHare
+Nightingale KingCrab
+BirdsOfParadise HornedFrog
+ArcticHare Albatross
+KingCrab AfricanForestElephant
+HermitCrab AfricanClawedFrog
+AfricanForestElephant AfricanClawedFrog
+HornedFrog Albatross
+AfricanClawedFrog Albatross

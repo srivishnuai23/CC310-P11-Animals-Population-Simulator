@@ -1,0 +1,11 @@
+10
+SriLankanElephant 673 36571
+VampireBat 383 32469
+Bonobo 113 11035
+BactrianCamel 863 52299
+BullShark 346 20034
+LeopardTortoise 445 26815
+AsianPalmCivet 297 19312
+Flounder 834 83242
+Human 516 30773
+Piranha 422 39750

@@ -1,0 +1,26 @@
+25
+OldEnglishSheepdog 22
+Deer 308
+Bobcat 246
+AinuDog 302
+Weasel 34
+Grasshopper 143
+Coati 271
+Albatross 253
+AfricanPenguin 257
+ElephantSeal 225
+Rattlesnake 225
+Long-EaredOwl 332
+Hippopotamus 167
+AdeliePenguin 358
+CommonBuzzard 64
+StaffordshireBullTerrier 348
+BandedPalmCivet 45
+EntlebucherMountainDog 324
+FrilledLizard 349
+Koala 353
+Liger 305
+WhiteRhinoceros 146
+Axolotl 335
+Red-handedTamarin 51
+Mule 142

@@ -1,0 +1,5 @@
+4
+fish 50
+bird 100
+fox 150
+bear 200

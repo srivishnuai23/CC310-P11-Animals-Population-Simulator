@@ -1,0 +1,152 @@
+25
+WhiteRhinoceros
+Albatross
+Liger
+AinuDog
+Deer
+EntlebucherMountainDog
+Bobcat
+BandedPalmCivet
+Grasshopper
+ElephantSeal
+Hippopotamus
+FrilledLizard
+CommonBuzzard
+AfricanPenguin
+AdeliePenguin
+Axolotl
+Weasel
+Koala
+Long-EaredOwl
+Rattlesnake
+OldEnglishSheepdog
+StaffordshireBullTerrier
+Red-handedTamarin
+Coati
+Mule
+125
+WhiteRhinoceros Koala 0.3405
+WhiteRhinoceros Bobcat 0.2536
+WhiteRhinoceros Grasshopper 0.0710
+WhiteRhinoceros AinuDog 0.3349
+Albatross Bobcat 0.2414
+Albatross WhiteRhinoceros 0.0539
+Albatross Mule 0.0832
+Albatross AdeliePenguin 0.3667
+Albatross BandedPalmCivet 0.1300
+Albatross AfricanPenguin 0.0653
+Albatross Liger 0.0595
+Liger Koala 0.8510
+Liger AfricanPenguin 0.0303
+Liger OldEnglishSheepdog 0.1187
+AinuDog Albatross 0.5040
+AinuDog BandedPalmCivet 0.2904
+AinuDog Koala 0.2056
+Deer Liger 0.7119
+Deer StaffordshireBullTerrier 0.1549
+Deer Axolotl 0.1332
+EntlebucherMountainDog Albatross 0.0822
+EntlebucherMountainDog Axolotl 0.0234
+EntlebucherMountainDog Coati 0.0320
+EntlebucherMountainDog StaffordshireBullTerrier 0.2303
+EntlebucherMountainDog Hippopotamus 0.1826
+EntlebucherMountainDog FrilledLizard 0.1447
+EntlebucherMountainDog Long-EaredOwl 0.3048
+Bobcat Koala 0.2390
+Bobcat Albatross 0.6450
+Bobcat Grasshopper 0.0282
+Bobcat Rattlesnake 0.0878
+BandedPalmCivet Deer 0.6032
+BandedPalmCivet Grasshopper 0.1684
+BandedPalmCivet Mule 0.0515
+BandedPalmCivet OldEnglishSheepdog 0.1596
+BandedPalmCivet Hippopotamus 0.0173
+Grasshopper Grasshopper 0.0558
+Grasshopper WhiteRhinoceros 0.0664
+Grasshopper AdeliePenguin 0.1342
+Grasshopper Axolotl 0.1829
+Grasshopper ElephantSeal 0.0062
+Grasshopper Koala 0.1648
+Grasshopper AinuDog 0.2109
+Grasshopper Hippopotamus 0.1788
+ElephantSeal AinuDog 0.1123
+ElephantSeal AfricanPenguin 0.6240
+ElephantSeal OldEnglishSheepdog 0.2584
+ElephantSeal Red-handedTamarin 0.0053
+Hippopotamus Mule 0.0034
+Hippopotamus WhiteRhinoceros 0.3096
+Hippopotamus Axolotl 0.2121
+Hippopotamus Rattlesnake 0.4370
+Hippopotamus AdeliePenguin 0.0379
+FrilledLizard Bobcat 0.1124
+FrilledLizard Koala 0.1565
+FrilledLizard StaffordshireBullTerrier 0.4488
+FrilledLizard WhiteRhinoceros 0.1161
+FrilledLizard FrilledLizard 0.1191
+FrilledLizard Coati 0.0471
+CommonBuzzard EntlebucherMountainDog 0.0866
+CommonBuzzard CommonBuzzard 0.1193
+CommonBuzzard Coati 0.0670
+CommonBuzzard OldEnglishSheepdog 0.2829
+CommonBuzzard StaffordshireBullTerrier 0.4322
+CommonBuzzard Grasshopper 0.0085
+CommonBuzzard AfricanPenguin 0.0035
+AfricanPenguin Albatross 0.1840
+AfricanPenguin Deer 0.6953
+AfricanPenguin Red-handedTamarin 0.1207
+AdeliePenguin Grasshopper 0.0685
+AdeliePenguin Deer 0.0024
+AdeliePenguin Weasel 0.1694
+AdeliePenguin Long-EaredOwl 0.0402
+AdeliePenguin Mule 0.3124
+AdeliePenguin Hippopotamus 0.1127
+AdeliePenguin AdeliePenguin 0.0705
+AdeliePenguin Red-handedTamarin 0.2239
+Axolotl StaffordshireBullTerrier 0.4528
+Axolotl Rattlesnake 0.0736
+Axolotl Liger 0.3322
+Axolotl AdeliePenguin 0.1414
+Weasel Long-EaredOwl 0.0771
+Weasel Albatross 0.7330
+Weasel Coati 0.1899
+Koala Axolotl 0.4662
+Koala Coati 0.4756
+Koala AdeliePenguin 0.0582
+Long-EaredOwl OldEnglishSheepdog 0.4051
+Long-EaredOwl Albatross 0.4228
+Long-EaredOwl Long-EaredOwl 0.1721
+Rattlesnake Bobcat 0.2849
+Rattlesnake CommonBuzzard 0.1695
+Rattlesnake BandedPalmCivet 0.2314
+Rattlesnake Rattlesnake 0.2204
+Rattlesnake Koala 0.0938
+OldEnglishSheepdog ElephantSeal 0.1198
+OldEnglishSheepdog AinuDog 0.1753
+OldEnglishSheepdog AdeliePenguin 0.2145
+OldEnglishSheepdog Liger 0.0998
+OldEnglishSheepdog StaffordshireBullTerrier 0.3611
+OldEnglishSheepdog Hippopotamus 0.0295
+StaffordshireBullTerrier StaffordshireBullTerrier 0.1713
+StaffordshireBullTerrier Axolotl 0.1706
+StaffordshireBullTerrier AinuDog 0.1455
+StaffordshireBullTerrier BandedPalmCivet 0.5126
+Red-handedTamarin StaffordshireBullTerrier 0.1678
+Red-handedTamarin Axolotl 0.0468
+Red-handedTamarin Coati 0.1011
+Red-handedTamarin BandedPalmCivet 0.1222
+Red-handedTamarin Red-handedTamarin 0.0693
+Red-handedTamarin EntlebucherMountainDog 0.2549
+Red-handedTamarin Bobcat 0.0981
+Red-handedTamarin Rattlesnake 0.1398
+Coati AdeliePenguin 0.2862
+Coati FrilledLizard 0.0316
+Coati Bobcat 0.6136
+Coati Hippopotamus 0.0686
+Mule Mule 0.2671
+Mule AdeliePenguin 0.1095
+Mule Weasel 0.1575
+Mule OldEnglishSheepdog 0.0965
+Mule ElephantSeal 0.0161
+Mule WhiteRhinoceros 0.2259
+Mule StaffordshireBullTerrier 0.0354
+Mule Red-handedTamarin 0.0920

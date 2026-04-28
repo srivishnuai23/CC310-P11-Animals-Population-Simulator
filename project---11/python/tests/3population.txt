@@ -1,0 +1,21 @@
+20
+KingCrab 772 40646
+EasternGorilla 100 8848
+WoollyMammoth 996 57458
+AfricanForestElephant 572 44482
+BirdsOfParadise 909 55720
+Bongo 228 13828
+HornedFrog 305 22432
+ArcticHare 804 64652
+Nightingale 268 24371
+Albatross 414 36957
+SeaDragon 757 64684
+CottontopTamarin 349 25829
+HorseshoeCrab 550 51942
+Flamingo 830 69709
+Mayfly 872 56706
+AfricanClawedFrog 715 62113
+BlackWidowSpider 632 47880
+HermitCrab 777 45530
+Kudu 946 69690
+RiverDolphin 196 11967

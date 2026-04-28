@@ -1,0 +1,11 @@
+10
+VampireBat 156
+Flounder 94
+Piranha 37
+LeopardTortoise 66
+AsianPalmCivet 242
+Human 330
+BullShark 168
+BactrianCamel 214
+Bonobo 349
+SriLankanElephant 61

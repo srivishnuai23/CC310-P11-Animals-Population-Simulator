@@ -1,0 +1,16 @@
+15
+MaskedPalmCivet 296
+MaineCoon 103
+Beagle 240
+Platypus 285
+SriLankanElephant 63
+SiameseFightingFish 51
+Monkey 49
+Newfoundland 35
+IndianRhinoceros 58
+Stoat 247
+Drever 230
+WoollyMammoth 346
+WesternLowlandGorilla 322
+AfricanPenguin 58
+Persian 5

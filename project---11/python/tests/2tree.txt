@@ -1,0 +1,15 @@
+15
+IndianRhinoceros Drever
+Persian SriLankanElephant
+WoollyMammoth WesternLowlandGorilla
+MaskedPalmCivet Beagle
+Monkey SiameseFightingFish
+Platypus Drever
+SiameseFightingFish Drever
+Newfoundland MaineCoon
+Beagle MaineCoon
+Drever SriLankanElephant
+Stoat SriLankanElephant
+MaineCoon WesternLowlandGorilla
+WesternLowlandGorilla AfricanPenguin
+AfricanPenguin SriLankanElephant
